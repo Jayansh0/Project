@@ -1,22 +1,37 @@
 # Project
 menu based project
+
 Overview
 This project is a comprehensive application built using Flask and various Python libraries. It integrates a range of functionalities, including web automation, email handling, scheduling, and more. Key features include:
 
-Web Application: Built with Flask to handle web requests and serve content.
-Generative AI Integration: Uses Google's Generative AI services for advanced AI capabilities.
+Web Application:Built with Flask to handle web requests and serve content.
+
+Generative AI Integration:Uses Google's Generative AI services for advanced AI capabilities.
+
 Instagram Automation: Automates Instagram interactions with instagrapi.
+
 Email Handling: Sends and manages emails using yagmail.
+
 Task Scheduling: Automates task execution with schedule.
+
 Search API: Retrieves search data via serpapi.
+
 Communication Services: Utilizes Twilio for SMS and voice call functionalities.
+
 Environment Management: Loads environment variables with python-dotenv.
+
 AWS Integration: Interacts with AWS services using boto3.
+
 Image Processing: Handles image manipulation with Pillow and opencv-python.
+
 Text-to-Speech: Converts text to speech using gtts.
+
 Geocoding: Works with geographic locations via geopy and geocoder.
+
 Audio Control: Manages audio settings on Windows with pycaw.
+
 COM Interaction: Uses comtypes for Windows-specific functionalities.
+
 Installation
 To set up the project, follow these steps:
 
@@ -37,6 +52,7 @@ Automated Instagram Actions: Post and retrieve data from Instagram.
 Email Notifications: Send emails and handle responses.
 Scheduled Tasks: Run tasks at specified intervals.
 Text-to-Speech: Convert text input into spoken audio.
+
 Dependencies
 The project relies on the following Python packages:
 
@@ -58,6 +74,7 @@ pycaw
 geocoder
 comtypes
 Contact
+
 For any questions or inquiries, please contact Jayansh Singh.
 
 Thanks for Reading.
